@@ -14,6 +14,8 @@ import llua.State;
 import vm.lua.LuaVM;
 import hxcodec.vlc.VLCBitmap;
 import hxcodec.vlc.LibVLC;
+import hxcodec.VideoHandler;
+import hxcodec.VideoSprite;
 using StringTools;
 
 /*
